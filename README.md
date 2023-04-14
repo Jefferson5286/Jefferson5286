@@ -1,8 +1,9 @@
-- 👋 Olá, meu nome é Jefferson tenho 17 anos.
+- 👋 Olá, meu nome é Jefferson, tenho 17 anos
+- Programador desde os 14 anos de idade, minha carreira começou com um aula do professor Guanabara sobre Python!
+- Sou desenvolvedor FullStack
 - Tenho interesse em aprender cada vez mas na área da Ti
-- Iniciante em javascript.
-- Atualmente estou aprendendo HTML5, CSS3, C++ e SQL.
-- Tenho conhecimento intermediário em python e pretendo ajudar a quem me pedir ajuda 😊
+- Minhas principais Linguagens são: Python, JavaScript e Cython
+- Meu frameworks e bibliotecas queridas: Kivy, FastAPI e React.
 
 <!---
 Jefferson5286/Jefferson5286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
