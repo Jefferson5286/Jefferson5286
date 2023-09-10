@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Jefferson, tenho 17 anos
+- 👋 Olá, meu nome é Jefferson, tenho 18 anos
 - Programador desde os 14 anos de idade, minha carreira começou com um aula do professor Guanabara sobre Python!
 - Sou desenvolvedor FullStack Python.
 - Tenho interesse em aprender cada vez mas na área da Ti
