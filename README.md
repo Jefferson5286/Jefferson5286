@@ -1,11 +1,42 @@
-- 👋 Olá, meu nome é Jefferson, tenho 18 anos
-- Programador desde os 14 anos de idade, minha carreira começou com um aula do professor Guanabara sobre Python!
-- Sou desenvolvedor FullStack Python.
-- Tenho interesse em aprender cada vez mas na área da Ti
-- Minhas principais Linguagens são: Python, JavaScript e Cython
-- Meus frameworks e bibliotecas queridas: Kivy, FastAPI, Django, React e jQuery.
+# Jefferson Ferreira Lima
 
-<!---
-Jefferson5286/Jefferson5286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá! Sou Jefferson Ferreira Lima, um desenvolvedor entusiasmado com o mundo dos softwares. Atualmente, estou cursando Engenharia de Software e estou em busca da minha primeira oportunidade na área, seja em front-end ou back-end. Tenho um forte desejo de me aprofundar e seguir carreira em desenvolvimento de software.
+
+## 🛠️ Habilidades
+
+- **Linguagens de Programação:**
+  - Python
+  - Javascript
+  - Typescript
+  - HTML, CSS (SASS)
+
+- **Frameworks e Bibliotecas:**
+  - React
+  - Django
+  - FastAPI
+  - Kivy
+  - Bootstrap
+
+- **Banco de Dados:**
+  - PostgreSQL
+  - MongoDB
+  - SQLite
+
+- **APIs:**
+  - GraphQL
+  - RESTful
+
+## 📅 Sobre Mim
+
+- **Nome:** Jefferson Ferreira Lima
+- **Data de Nascimento:** 11 de agosto de 2005
+- **Início na Programação:** 2018
+- **Educação:** Cursando Engenharia de Software (desde 2024)
+
+## 🚀 Projetos Notáveis
+
+- **LostMiner Community:** Estou desenvolvendo uma comunidade para o jogo LostMiner, onde os usuários podem fazer discussões (parte fórum) e publicar seus conteúdos, como mundos, texturas e skins.
+
+## 🎯 Objetivos
+
+Estou em busca de minha primeira oportunidade na área de desenvolvimento de software. Tenho interesse tanto em front-end quanto em back-end e estou convicto a aprender e crescer profissionalmente.
