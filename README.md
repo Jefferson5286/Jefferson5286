@@ -33,9 +33,18 @@
 - **Início na Programação:** 2018
 - **Educação:** Cursando Engenharia de Software (desde 2024)
 
-## 🚀 Projetos Notáveis
+## 🚀 Principais Projetos
 
 - **LostMiner Community:** Estou desenvolvendo uma comunidade para o jogo LostMiner, onde os usuários podem fazer discussões (parte fórum) e publicar seus conteúdos, como mundos, texturas e skins.
+
+## Cursos de formações
+
+| **Curso**                      | **Plataforma**  | **Certificado** |
+|--------------------------------|-----------------|-----------------|
+| Python Básico                  | Curso em Vídeo  | ✔️               |
+| Linux                          | Linux Tips      | ✔️               |
+| Java                           | Linux Tips      | ✔️               |
+| Django                         | Pythonando      | ✔️               |
 
 ## 🎯 Objetivos
 
