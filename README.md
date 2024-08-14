@@ -39,12 +39,15 @@
 
 ## Cursos de formações
 
-| **Curso**                      | **Plataforma**  | **Certificado** |
-|--------------------------------|-----------------|-----------------|
-| Python Básico                  | Curso em Vídeo  | ✔️               |
-| Linux                          | Linux Tips      | ✔️               |
-| Java                           | Linux Tips      | ✔️               |
-| Django                         | Pythonando      | ✔️               |
+| **Curso**                               | **Plataforma**         | **Status/Certificação**                  |
+|-----------------------------------------|------------------------|------------------------------------------|
+| Python Básico                           | Curso em Vídeo         | Certificado                              |
+| Linux                                   | Linux Tips             | Certificado                              |
+| Java Essentials                         | Linux Tips             | Certificado                              |
+| Django                                  | Pythonando             | Certificado                              |
+| Kivy Framework                          | HashLDash              | Sem certificação (concluído)             |
+| Engenharia de Software (Bacharelado)    | Anhanguera Educacional | Em andamento                             |
+| Javascript                              | Curso em Vídeo         | Sem certificação (concluído)             |
 
 ## 🎯 Objetivos
 
