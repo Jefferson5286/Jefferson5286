@@ -6,12 +6,12 @@
 
 - **Linguagens de Programação:**
   - Python
-  - Javascript
-  - Typescript
+  - JavaScript/TypeScript
   - HTML, CSS (SASS)
+  - Java
 
 - **Frameworks e Bibliotecas:**
-  - React
+  - React/ReactNative
   - Django
   - FastAPI
   - Kivy
