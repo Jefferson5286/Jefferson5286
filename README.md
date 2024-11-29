@@ -12,7 +12,7 @@
 
 - **Frameworks e Bibliotecas:**
   - React/ReactNative
-  - Django
+  - Django/DRF
   - FastAPI
   - Kivy
   - Bootstrap
