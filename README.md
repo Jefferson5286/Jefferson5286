@@ -11,7 +11,8 @@
   - Java
 
 - **Frameworks e Bibliotecas:**
-  - React/ReactNative
+  - React
+  - ReactNative
   - Django/DRF
   - FastAPI
   - Kivy
