@@ -17,14 +17,21 @@
   - Kivy
   - Bootstrap
 
+- **Arquiteturas Tradicionais:**
+  - Monolítica
+  - MVC
+
 - **Banco de Dados:**
   - PostgreSQL
   - MongoDB
   - SQLite
 
-- **APIs:**
+- **Arquiteturas de Comunicação e Dados:**
   - GraphQL
   - RESTful
+ 
+- **Arquiteturas Modernas:**
+  - Serverless
 
 ## 📅 Sobre Mim
 
