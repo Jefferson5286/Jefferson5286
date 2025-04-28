@@ -1,6 +1,6 @@
 # Jefferson Ferreira Lima
 
-👋 Olá! Sou Jefferson Ferreira Lima, um desenvolvedor entusiasmado com o mundo dos softwares. Atualmente, estou cursando Engenharia de Software e estou em busca da minha primeira oportunidade na área, seja em front-end ou back-end. Tenho um forte desejo de me aprofundar e seguir carreira em desenvolvimento de software.
+👋 Olá! Sou Jefferson Ferreira Lima, um desenvolvedor entusiasmado com o mundo dos softwares. Atualmente, faço parte dos projetos Ultec Soluções e JeffersTech como engenheiro de software, enquanto continuo cursando Engenharia de Software. Tenho um forte desejo de me aprofundar e seguir carreira no desenvolvimento de software, seja em front-end ou back-end.
 
 ## 🛠️ Habilidades
 
