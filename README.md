@@ -60,4 +60,4 @@
 
 ## 🎯 Objetivos
 
-Estou em busca de minha primeira oportunidade na área de desenvolvimento de software. Tenho interesse tanto em front-end quanto em back-end e estou convicto a aprender e crescer profissionalmente.
+Atualmente, faço parte dos projetos Ultec Soluções e JeffersTech como engenheiro de software e estou em constante evolução. Tenho interesse tanto em front-end quanto em back-end, e estou focado em aprender e crescer cada vez mais como profissional de software.
