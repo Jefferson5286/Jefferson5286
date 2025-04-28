@@ -26,6 +26,7 @@
   - PostgreSQL
   - MongoDB
   - SQLite
+  - Redis
 
 - **Arquiteturas de Comunicação e Dados:**
   - GraphQL
